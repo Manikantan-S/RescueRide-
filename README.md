@@ -15,6 +15,7 @@ RescueRide is a revolutionary web application that can potentially solve the pro
 SDG 🎯:
 
 RescueRide aligns with several of the United Nations' Sustainable Development Goals (SDGs) and targets, including:
+
 SDG 3: Good Health and Well-Being:- Target 3.8: Achieve universal health coverage, including financial risk protection, access to quality essential health-care services, and access to safe, effective, quality, and affordable essential medicines and vaccines for all.
 
 SDG 9: Industry, Innovation and Infrastructure:- Target 9.1: Develop quality, reliable, sustainable, and resilient infrastructure, including regional and trans-border infrastructure, to support economic development and human well-being, with a focus on affordable and equitable access for all.
